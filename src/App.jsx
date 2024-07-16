@@ -54,7 +54,7 @@ function App() {
           <button className="w-[55px] text-white bg-orange-600 h-[55px] font-bold rounded-full ">
             +
           </button>
-          <button className="text-white bg-stone-800 h-[55px] rounded-full col-span-2 w-full font-bold flex items-center pl-5 ">
+          <button className="text-white bg-stone-800 h-[55px] rounded-full col-span-2 w-full font-bold flex items-center pl-6 ">
             0
           </button>
           <button className="w-[55px] text-white bg-stone-800 h-[55px] font-bold rounded-full ">
